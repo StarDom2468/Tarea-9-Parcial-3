@@ -1,0 +1,103 @@
+[
+    {
+     "nombre": "Celular",
+     "precio": 7599.00,
+     "pesoKg": 0.20,
+     "alturam": 0.15
+    },
+    {"nombre": "Refrigerador",
+     "precio": 17000.00,
+     "pesoKg": 70.65,
+     "alturam": 1.70
+    },
+    {"nombre": "Televisor 4k",
+     "precio": 24000.00,
+     "pesoKg": 18.00,
+     "alturam": 0.70
+    },
+    {"nombre": "Estufa",
+     "precio": 8600.00,
+     "pesoKg": 47.20,
+     "alturam": 1.10
+    },
+    {"nombre": "Aire acondicionado",
+     "precio": 11400.00,
+     "pesoKg": 24.40,
+     "alturam": 0.45
+    },
+    {"nombre": "Impresora",
+     "precio": 5600.00,
+     "pesoKg": 5.00,
+     "alturam": 0.35
+    },
+    {"nombre": "Silla",
+     "precio": 560.00,
+     "pesoKg": 3.57,
+     "alturam": 0.90
+    },
+    {"nombre": "Escritorio",
+     "precio": 4300.00,
+     "pesoKg": 29.30,
+     "alturam": 0.75
+    },
+    {"nombre": "Armario",
+     "precio": 7900.00,
+     "pesoKg": 49.00,
+     "alturam": 1.98
+    },
+    {"nombre": "Escalera de mano",
+     "precio": 2870.00,
+     "pesoKg": 14.10,
+     "alturam": 3.00
+    },
+    {"nombre": "Pizarrón",
+     "precio": 1400.00,
+     "pesoKg": 14.20,
+     "alturam": 1.47
+    },
+    {"nombre": "Garrafón lleno",
+     "precio": 40.00,
+     "pesoKg": 19.00,
+     "alturam": 0.54
+    },
+    {"nombre": "Cuaderno",
+     "precio": 45.30,
+     "pesoKg": 0.40,
+     "alturam": 0.30
+    },
+    {"nombre": "Mochila",
+     "precio": 1400.00,
+     "pesoKg": 2.17,
+     "alturam": 0.50
+    },
+    {"nombre": "Casa para perro",
+     "precio": 3400.00,
+     "pesoKg": 23.00,
+     "alturam": 1.40
+    },
+    {"nombre": "Tinaco",
+     "precio": 3000.00,
+     "pesoKg": 36.00,
+     "alturam": 1.80
+    },
+    {"nombre": "Shampoo",
+     "precio": 55.00,
+     "pesoKg": 0.6,
+     "alturam": 0.24
+    },
+    {"nombre": "Bote de basura",
+     "precio": 450.00,
+     "pesoKg": 8.90,
+     "alturam": 0.90
+    },
+    {"nombre": "Caja de arena para gatos",
+     "precio": 600.30,
+     "pesoKg": 5.00,
+     "alturam": 0.40
+    },
+    {"nombre": "Bicicleta",
+     "precio": 7690.80,
+     "pesoKg": 17.00,
+     "alturam": 1.16
+    }
+]
